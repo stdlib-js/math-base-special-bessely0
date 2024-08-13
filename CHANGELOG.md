@@ -2,6 +2,50 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-08-13)
+
+<section class="features">
+
+### Features
+
+-   [`aaf0c58`](https://github.com/stdlib-js/stdlib/commit/aaf0c5825f2be45af9025e09c60cc4a1de559152) - add C implementation for `math/base/special/bessely0` [(#2780)](https://github.com/stdlib-js/stdlib/pull/2780)
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`aaf0c58`](https://github.com/stdlib-js/stdlib/commit/aaf0c5825f2be45af9025e09c60cc4a1de559152) - **feat:** add C implementation for `math/base/special/bessely0` [(#2780)](https://github.com/stdlib-js/stdlib/pull/2780) _(by Gunj Joshi)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Gunj Joshi
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
@@ -79,8 +123,7 @@ No changes reported for this release.
 
 ### BREAKING CHANGES
 
--   [`58832ee`](https://github.com/stdlib-js/stdlib/commit/58832eef6d93e6519622148242600eae93dca4d9): update minimum TypeScript version
--   [`58832ee`](https://github.com/stdlib-js/stdlib/commit/58832eef6d93e6519622148242600eae93dca4d9): update minimum TypeScript version to 4.1 
+-   [`58832ee`](https://github.com/stdlib-js/stdlib/commit/58832eef6d93e6519622148242600eae93dca4d9): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
