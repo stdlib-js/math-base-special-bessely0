@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-01)
+## Unreleased (2026-08-17)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`0acfa70`](https://github.com/stdlib-js/stdlib/commit/0acfa70d8289c125f1d982c5baa234257a8b26ce) - **test:** migrate `math/base/special/bessely0` to ULP-based assertions [(#14350)](https://github.com/stdlib-js/stdlib/pull/14350) _(by Philipp Burckhardt)_
 -   [`b953edd`](https://github.com/stdlib-js/stdlib/commit/b953edd95d0ca1b521d0abbd2c2719d099ff7807) - **refactor:** use `constants/float64/nan` and clean-up [(#13585)](https://github.com/stdlib-js/stdlib/pull/13585) _(by Philipp Burckhardt)_
 -   [`9229dd7`](https://github.com/stdlib-js/stdlib/commit/9229dd78fa82c5f863dbc51a9588314d53a97c44) - **bench:** refactor to use string interpolation in `math/base/special` [(#11386)](https://github.com/stdlib-js/stdlib/pull/11386) _(by Karan Anand)_
 
